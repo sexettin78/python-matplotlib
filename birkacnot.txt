@@ -1,0 +1,4 @@
+m = magenta
+plot(x,y,'m') #buradaki m renk. m = magenta
+plot(x,y,'m.') grafik nokta nokta oldu
+ızgara görünüm için grid kullanılır, ızgarada lw değerini arttırarak çizgi boyutu arttırılabilir
